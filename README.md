@@ -12,7 +12,7 @@
 
 "MENTOR":NEELA SANTHOSH KUMAR
 
-# ✅ Task 3: Sentiment Analysis Using NLP 🧠💬
+# ✅ Task 3: Sentiment Analysis Using NLP 
 
 This task focuses on performing Sentiment Analysis on a textual dataset using Natural Language Processing (NLP) techniques. The goal is to classify the sentiment expressed in text (such as movie or product reviews) as Positive, Negative, or Neutral.
 
